@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(bkg.jpg); no-repeat;
+    background-image: url(bkg.jpg);
     background-position: center;
     background-size: cover;
 }
